@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic@master
+remote_theme: tocttou/hacker-blog
 plugins:
 - jekyll-remote-theme
 
